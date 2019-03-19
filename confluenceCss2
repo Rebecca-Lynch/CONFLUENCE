@@ -1,0 +1,9 @@
+
+.confluence-information-macro .confluence-information-macro-icon.aui-iconfont-info { color:#c60909 !important;}
+.confluence-information-macro-information { border-left: 6px solid #c60909 !important; border-top: none !important; border-right: none !important; border-bottom: none !important; border-radius:0px !important; background-color:#F0EFED !important;}
+h3 {font-weight:bold !important;}
+h3 + p {margin-top:2px !important;}
+hr {border-top: 2px solid #006341; border-bottom:0px !important;}
+.confluenceTd {border-left: 1px solid #006341; border-right:1px solid #006341 !important; border-top:0px; border-bottom:0px;}
+.columnLayout:nth-child(odd) {background-color:#F7F6F5 !important;}
+.columnLayout {padding:30px 0px 30px 0px !important;}
